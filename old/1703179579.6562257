@@ -1,0 +1,35 @@
+{
+  "last_round": null,
+  "history": [
+    {
+      "id": 1703177423.9173625,
+      "inj": 38.588906414649244,
+      "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana": 0.00036133608916678997
+    },
+    {
+      "id": 1703177434.3648007,
+      "inj": 38.588906414649244,
+      "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana": 0.00036133608916678997
+    },
+    {
+      "id": 1703177445.1343691,
+      "inj": 38.588906414649244,
+      "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana": 0.00036133608916678997
+    },
+    {
+      "id": 1703178294.2729862,
+      "inj": 38.588906414649244,
+      "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana": 0.00035728557276970107
+    },
+    {
+      "id": 1703178304.882773,
+      "inj": 38.588906414649244,
+      "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana": 0.00035728557276970107
+    },
+    {
+      "id": 1703178315.1943119,
+      "inj": 38.588906414649244,
+      "factory/inj1vwn4x08hlactxj3y3kuqddafs2hhqzapruwt87/katana": 0.00035728557276970107
+    }
+  ]
+}
